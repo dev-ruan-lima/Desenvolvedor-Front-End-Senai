@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #d4a373;
+  padding: 40px 0 0 0;
+}
+
+.pepsi {
+  max-width: 150px;
+  margin: 0 auto 40px;
+  display: block;
+}
+
+nav {
+  background: #ccd5ae;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 10px 0 10px 0;
+  width: 1040px;
+}
+
+li {
+  list-style: none;
+  padding: 1em;
+  min-width: 80px;
+  text-align: center;
+  background: #e9edc9;
+  border:solid #e9edc9 2px;
+  border-radius: 5px;
+
+}
+
+li:hover {
+  background-color: #fefae0;
+}
+
+main {
+    background-color: #fefae0;
+}
+
+.fla {
+    display: flex;
+}
+
+.logo1 {
+    flex-basis: 30%;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+
+.prf1 {
+     flex-basis: 40%;
+     margin-right: 30%;
+     margin-top: 30px;
+}
+
+.logo2 {
+    flex-basis: 30%;
+    margin-left: 30%;
+    margin-top: 30px;
+    background-color:white;
+}
+
+.prf2 {
+     flex-basis: 40%;
+     margin-right: 30%;
+     margin-top: 30px;
+     background-color:white;
+}
+
+.logo3 {
+    flex-basis: 30%;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+
+.prf3 {
+     flex-basis: 40%;
+     margin-right: 30%;
+     margin-top: 30px;
+}
+
+.regata {
+  padding-left:27%;
+  margin-top:15px;
+}
+
+.telefone {
+  padding-left:27%;
+  margin-top:15px;
+}
+
+.link {
+  padding-left:27%;
+  margin-top:15px;
+}
+
+
+.tel {
+    display: flex;
+}
+
+.lin {
+    display: flex;
+
+}
+
+footer {
+    background-color: #d4a373;
+    display:flex;
+    justify-content:space-between;
+}
+
+.pepsii {
+  padding-left:700px;
+}
+
+.copi {
+  padding-right:500px;
+}
